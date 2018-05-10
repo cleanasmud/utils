@@ -1,0 +1,6 @@
+TAB: menu-complete                                                              
+set show-all-if-ambiguous on                                                    
+set menu-complete-display-prefix on                                             
+set completion-display-width 1                                                  
+set skip-completed-text on                                                      
+set colored-stats on  
